@@ -1,5 +1,7 @@
 # Freecam
 
+## The main change in this fork is the removal of the restriction on passing through blocks only for single-player or multiplayer games with operator status!
+
 This mod allows you to control your camera separately from your player. While it is enabled, you can fly around and travel through blocks within your render distance. Disabling it will restore you to your original position. This can be useful for quickly inspecting builds and exploring your world. 
 
 This mod works in multiplayer, but may be considered cheating on some servers, so use it at your own risk.
